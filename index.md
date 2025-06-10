@@ -12,7 +12,7 @@ author_profile: true
 ---
 
 ## Education
-    -*Bsc Telecommunications and information Engineering* -Jomo Kenyatta University of Agriculture and Technology
+-**Bsc Telecommunications and information Engineering** -Jomo Kenyatta University of Agriculture and Technology
     
 
 ---
@@ -26,8 +26,7 @@ author_profile: true
 ## Skills
 - Network setup, monitoring, and security
 - protocols
-- Preventive maintenance and
- -troubleshooting
+- Preventive maintenance and troubleshooting
  -Fedora and Linux-based systems
  -KVM (Kernel-based Virtual Machine) and
  -VMware virtualization
