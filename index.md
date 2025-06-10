@@ -44,6 +44,6 @@ author_profile: true
 
 
 ## Projects 
- ###  __AI-Based Intrusion Detection in WLAN Networks__
+   __AI-Based Intrusion Detection in WLAN Networks__
    -  Developed an AI model to detect network intrusions for the final-year project.
    -  Identified wireless vulnerabilities and proposed mitigation strategies.
