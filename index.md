@@ -5,10 +5,13 @@
 layout: single
 author_profile: true
 ---
-#Curriculum Vitae -Wayne Opaa
+
+# Curriculum Vitae -Wayne Opaa
+
+
 ---
 
-##Education
-    -Bsc Telecommunications and information Engineering -Jomo Kenyatta University of Agriculture and Technology
+## Education
+    -**Bsc Telecommunications and information Engineering** -Jomo Kenyatta University of Agriculture and Technology
 
 ---
