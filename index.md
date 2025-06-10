@@ -11,8 +11,7 @@ author_profile: true
 
 ---
 
-## ![image](https://github.com/user-attachments/assets/8ae8e0ac-2607-45a6-b6c9-5c53fe3c6bd1)
- Education
+## ![image](https://github.com/user-attachments/assets/8ae8e0ac-2607-45a6-b6c9-5c53fe3c6bd1) Education
 - **Bsc Telecommunications and information Engineering** ,Jomo Kenyatta University of Agriculture and Technology
     
 
