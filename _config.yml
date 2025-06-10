@@ -62,7 +62,7 @@ author:
   avatar : "assets/images/wembe.jpg"
   bio    : "Telecommunications engineering,Cloud and Network security."
   links:
-    -label: "LinkedIn"
+    - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/wayneopaa"
   #  - label: "Website"
