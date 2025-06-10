@@ -27,17 +27,17 @@ author_profile: true
 - Network setup, monitoring, and security
 - protocols
 - Preventive maintenance and troubleshooting
--Fedora and Linux-based systems
--VMware virtualization
--Network automation tools and scripting
--Advanced network security principles and practices
--Cloud service integration
+- Fedora and Linux-based systems
+- VMware virtualization
+- Network automation tools and scripting
+- Advanced network security principles and practices
+- Cloud service integration
 ---
 
 ## Certifications
-➢ Microsoft Certified: Azure Fundamentals (Cloud Computing & Network Security) 
-➢ Cisco Networking Basics Certification (TCP/IP, DNS, Network Configurations) 
-➢ Cisco Email Threat Assessment & Security Certification 
-➢ Computer Packages Training – Trickle Up Vocational Centre
+- Microsoft Certified: Azure Fundamentals (Cloud Computing & Network Security) 
+- Cisco Networking Basics Certification (TCP/IP, DNS, Network Configurations) 
+- Cisco Email Threat Assessment & Security Certification 
+- Computer Packages Training – Trickle Up Vocational Centre
 
 -------
