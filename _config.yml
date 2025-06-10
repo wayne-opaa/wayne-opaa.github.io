@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Wayne Opaa"
-  avatar : "/assets/images/photo.jpg"
+  avatar : "assets/images/wembe.jpg"
   bio    : "Telecommunications engineering,Cloud and Network security|."
   links:
   #  - label: "Website"
