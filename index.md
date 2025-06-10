@@ -12,13 +12,13 @@ author_profile: true
 ---
 
 ## Education
--**Bsc Telecommunications and information Engineering** -Jomo Kenyatta University of Agriculture and Technology
+-**Bsc Telecommunications and information Engineering** ,Jomo Kenyatta University of Agriculture and Technology
     
 
 ---
 
 ## Work Experience 
--**Kisumu Internationale Airport (attachee)**-ICT atachee and specialist
+-**Kisumu Internationale Airport (attachee)**,ICT atachee and specialist
 -**Gearbox Academy** -Attachee
 -**Nairobi City County** -ICT attachee
 
@@ -27,10 +27,17 @@ author_profile: true
 - Network setup, monitoring, and security
 - protocols
 - Preventive maintenance and troubleshooting
- -Fedora and Linux-based systems
- -KVM (Kernel-based Virtual Machine) and
- -VMware virtualization
- -Network automation tools and scripting
- -Advanced network security principles and practices
- -Cloud service integration
-  ---
+-Fedora and Linux-based systems
+-VMware virtualization
+-Network automation tools and scripting
+-Advanced network security principles and practices
+-Cloud service integration
+---
+
+## Certifications
+➢ Microsoft Certified: Azure Fundamentals (Cloud Computing & Network Security) 
+➢ Cisco Networking Basics Certification (TCP/IP, DNS, Network Configurations) 
+➢ Cisco Email Threat Assessment & Security Certification 
+➢ Computer Packages Training – Trickle Up Vocational Centre
+
+-------
